@@ -55,7 +55,7 @@
     "gulp-sourcemaps": "^1.5.2",
     "gulp-uglify": "^1.4.0",
     "imagemin-pngquant": "^4.2.0",
-    "mocha": "^2.3.0",
+    "mocha": "^7.0.1",
     "postcss-nested": "^1.0.0",
     "postcss-simple-extend": "^1.0.0",
     "postcss-simple-vars": "^1.0.0",
